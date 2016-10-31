@@ -1,1 +1,1 @@
-web: gunicorn wsgi.py
+web: gunicorn online_food_ordering.wsgi
